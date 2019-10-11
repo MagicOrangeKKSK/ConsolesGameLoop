@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ConsolesGameLoop\ConsolesGameLoop\bin\Debug\ConsolesGameLoop.exe.config
+C:\Users\Administrator\source\repos\ConsolesGameLoop\ConsolesGameLoop\bin\Debug\ConsolesGameLoop.exe
+C:\Users\Administrator\source\repos\ConsolesGameLoop\ConsolesGameLoop\bin\Debug\ConsolesGameLoop.pdb
+C:\Users\Administrator\source\repos\ConsolesGameLoop\ConsolesGameLoop\obj\Debug\ConsolesGameLoop.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsolesGameLoop\ConsolesGameLoop\obj\Debug\ConsolesGameLoop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsolesGameLoop\ConsolesGameLoop\obj\Debug\ConsolesGameLoop.exe
+C:\Users\Administrator\source\repos\ConsolesGameLoop\ConsolesGameLoop\obj\Debug\ConsolesGameLoop.pdb
